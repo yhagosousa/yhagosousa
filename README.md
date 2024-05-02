@@ -8,5 +8,5 @@ I'm Yhago Sousa, I'm a Junior Front-End Programmer. I'm currently learning and c
 [![yhagosousa](https://github-readme-stats.vercel.app/api?username=yhagosousa)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhagosousa)](https://github.com/anuraghazra/github-readme-stats) <br>
 
-Projeto publicado:<br>
-<a href=" https://yhagosousa.github.io/Projeto-Mario-Luigi/"> Site Mario e Luigi-DevClub <a/>
+Projeto publicado:<br> <br>
+<a href="https://yhagosousa.github.io/Projeto-Mario-Luigi/">&#9758; Site Mario e Luigi-DevClub </a>
